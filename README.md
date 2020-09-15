@@ -6,14 +6,14 @@ IEEE-CIS Fraud Detection (Can you detect fraud from customer transactions?)
 ## Data Imbalance
 training data: 569877(96.5%) v.s. 20663(3.5%)
 
-### -Try to balance the data:
+#### -Try to balance the data:
 (Over sampling)
 simple over sampling
 SMOTE
 (under sampling)
 simple under sampling
 Tomek links
-### -Transfer learning for rare label data
+#### -Transfer learning for rare label data
 
 ## large class in category features
 26 category features class<=10, 23 category features class>10 (number of class, from 3 to 13553)
